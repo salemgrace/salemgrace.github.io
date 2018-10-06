@@ -112,6 +112,17 @@ h3 {
   text-align: center;
 }
 
+.logo-size {
+  margin: 5px;
+  width: 40px;
+}
+
+.logo-holder {
+  box-align: center;
+  margin: 0 auto;
+  width: 12%;
+}
+
 /* Footer */
 .content-push {
   height: 55px;
